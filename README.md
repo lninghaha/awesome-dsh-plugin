@@ -1,1 +1,1 @@
-file:///tmp/listing-push/README.md
+@/tmp/listing-push/README.md
